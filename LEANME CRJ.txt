@@ -1,0 +1,26 @@
+🧠 ¿Cómo otra persona usaría tu proyecto?
+
+Solo tendría que hacer esto:
+
+1. Clonar tu repositorio
+git clone https://github.com/DanteLiamPower/Sistema-Web-de-control-de-asistencia-para-un-GYM.git
+
+2. Entrar a la carpeta
+cd Sistema-Web-de-control-de-asistencia-para-un-GYM
+// En el mio esta SistemaWeb GYM :v
+3. Instalar dependencias
+
+Como es Node.js:
+
+npm install
+
+👉 Esto recrea automáticamente node_modules
+(por eso no se sube)
+
+4. Ejecutar el proyecto
+
+Dependiendo de tu configuración:
+sigue los siguientes pasos pepecito :D
+
+npm install
+npm run dev
